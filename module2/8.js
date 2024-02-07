@@ -1,3 +1,5 @@
+//! PLEASE EXPLAIN ABOUT DEFER
+
 const textBox = document.getElementById("text")
 const button = document.getElementById("button")
 

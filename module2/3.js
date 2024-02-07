@@ -1,11 +1,11 @@
 //* https://www.w3schools.com/js/js_arrays.asp
 
-const array = [1, 2, 5, 8]
+const array = [100, 16, 50, 41]
 
 //? Array Can store any primitive values
 //? Array Have Indexes which are number
 
-console.log(array[0])
+console.log(array[100])
 
 //? They also have methods, and properties which you can called
 

@@ -3,7 +3,7 @@
 //! Math Operators
 const sum = 1 + 2
 const sub = 2 - 1
-const multiplay = 3 + 4
+const multiply = 3 * 4
 const division = 16 / 4
 const exponent = 2 ** 2
 const modulus = 13 % 4
@@ -42,8 +42,8 @@ console.log("John " + 10 + " Khant")
 //! Javascript Logical Operators
 
 const statement1 = true
-const statement2 = true
+const statement2 = false
 
 console.log(statement1 && statement2)
 console.log(statement1 || statement2)
-console.log(!(statement1))
+console.log(!statement1)

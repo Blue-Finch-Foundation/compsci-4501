@@ -40,6 +40,8 @@ switch (age) {
     case 21:
         console.log("You can Engage")
         break
+    default:
+        console.log("Error")
 }
 
 //! Tenary Operators are Important and will be used a lot 

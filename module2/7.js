@@ -1,10 +1,13 @@
-let value = false
+let y = false
 
 function valueChanger() {
-    value = true
+    y = true
 }
 
 valueChanger()
-console.log(value)
+
+console.log(y)
+
+
 
 //! Using let can change global scope. That's why you need to be careful.
