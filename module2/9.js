@@ -1,12 +1,20 @@
-const textBox = document.getElementById("text")
-const button = document.getElementById("button")
+const textBox = document.getElementById("textbox")
+
+const incrementButton = document.getElementById("increment")
+const decrementButton = document.getElementById('decrement')
+
 let number = 0
 
 textBox.innerText = number
 
-button.addEventListener("click", function () {
+incrementButton.addEventListener("click", function () {
     number++;
     textBox.innerText = number
 })
 
 //? Decrement Button 
+
+decrementButton.addEventListener("click", function () {
+    number--;
+    textBox.innerText = number
+})

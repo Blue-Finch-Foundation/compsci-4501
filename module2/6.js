@@ -2,12 +2,6 @@ const person = { name: "Max", age: 10 }
 const person2 = { name: "Andrew", age: 5 }
 const person3 = { name: "Aeon", age: 20 }
 
-// function checkAge(age) {
-
-//     if (age < 18) {
-//         console.log("UnderAge")
-//     }
-// }
 
 function ageValidation(age) {
     if (age < 18) {
@@ -19,7 +13,7 @@ function ageValidation(age) {
 
 }
 
-const checkedAge = ageValidation(person.age)
+const person1checked = ageValidation(person.age)
 const person2checked = ageValidation(person2.age)
 const person3checked = ageValidation(person3.age)
 

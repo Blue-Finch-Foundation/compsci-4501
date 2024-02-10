@@ -1,10 +1,13 @@
-//! PLEASE EXPLAIN ABOUT DEFER
+// //! PLEASE EXPLAIN ABOUT DEFER
 
-const textBox = document.getElementById("text")
+const textBox = document.getElementById("textbox")
 const button = document.getElementById("button")
 
-textBox.innerText = "Hello"
-// textBox.innerHTML = "<h1>Here Is Temporary <br /> Text</h1>"
+
+// textBox.innerText = "Hi"
+// textBox.innerHTML = "<i>Here Is Temporary <br /> Text</i>"
+
+
 
 button.addEventListener("click", function () {
     textBox.innerText = "Hi"
