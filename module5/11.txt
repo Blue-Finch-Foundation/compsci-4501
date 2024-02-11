@@ -1,0 +1,9 @@
+HTTP Status 
+
+200 - Success
+301 - Redirect ( Perm )
+302 - Found
+401 - Not Authenticated
+500 - Server Error
+
+https://http.cat/

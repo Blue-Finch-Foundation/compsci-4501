@@ -1,0 +1,6 @@
+JSON is a Javascript Object Notation 
+
+It is used to transfer the payload across the backend, and frontend. It is widely used
+because it is supported by many language, and across cross-platform compactibility
+
+https://jsonplaceholder.typicode.com/users

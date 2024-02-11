@@ -1,0 +1,16 @@
+RESTAPI
+
+REST stands for REpresentational State Transfer
+
+https://www.youtube.com/watch?app=desktop&v=-mN3VyJuCjM
+
+REST uses HTTP below it.
+
+Every applications is CRUD ( Create, Read, Update, Delete ), and those can be represnted by 
+HTTP methods.
+
+GET -> Read
+POST -> Create
+PUT -> Update
+PATCH -> Update 
+DELETE -> DELETE

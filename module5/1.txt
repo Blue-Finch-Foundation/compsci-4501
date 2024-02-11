@@ -1,0 +1,4 @@
+What Is Node Js ?
+
+It is a Runtime for JS. JS only runs at browser. However, with NodeJs, JS can run 
+everywhere where runtime can be installed. (Server, Phone, IoT)
